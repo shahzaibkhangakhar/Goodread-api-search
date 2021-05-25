@@ -1,0 +1,59 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+/* blog previews / list */
+.blog-preview {
+  padding: 10px 100px;
+  margin: 10px 200px;
+  border-bottom: 1px solid #fafafa;
+}
+.blog-preview:hover {
+  box-shadow: 10px 3px 5px rgba(0, 0, 0, 0.1);
+}
+.blog-preview h2 {
+  font-size: 20px;
+  color: #293efa;
+  margin-bottom: 8px;
+}
+.blog-list h1 {
+  font-size: 30px;
+  color: #293efa;
+  margin: 10px   45%;
+}
+.blog-preview a{
+  text-decoration: none;
+}
+
+
+.Books-preview {
+  padding: 10px ;
+  margin: 10px ;
+  border-bottom: 1px solid #fafafa;
+}
+.Books-preview:hover {
+  box-shadow: 10px 3px 5px rgba(0, 0, 0, 0.1);
+}
+.Books-preview h2 {
+  font-size: 20px;
+  color: #293efa;
+  margin-bottom: 8px;
+}
+.Books-preview h1 {
+  font-size: 30px;
+  color: #293efa;
+
+}
+.Books-preview a{
+  text-decoration: none;
+}
